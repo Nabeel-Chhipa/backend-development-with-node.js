@@ -13,5 +13,5 @@ const fs = require('fs')
 
 // fs.writeFileSync('demo.txt', `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s`)
 
-console.log('Directory name: ', __dirname)
-console.log('File name: ', __filename)
+// console.log('Directory name: ', __dirname)
+// console.log('File name: ', __filename)
